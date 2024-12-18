@@ -1,0 +1,122 @@
+
+#title {
+    color: green;
+    background-color: aqua;
+    text-align:center;
+    border: 1px double black;
+}
+.first {
+    color: red;
+}
+.text {
+    color: blue;
+}
+#height {
+    color:rgb(rgb FF, 57, 33) ;
+}
+.first{
+    color: red;
+}
+button {
+    color: blue;
+}
+.first2 {
+    color: black;
+    background-color: rgb(225, 232, 11);
+}
+.highlight {
+    font-weight: bold;
+}
+#spesial {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.underline {
+    text-decoration: underline;
+    font-size: 40PX;
+    
+}
+#totam {
+    color: white;
+    background-color: green;
+}
+#button {
+    color: blue;
+}
+#button {
+    background-color: rgb(f0, f0, f0);
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 2px solid #ccc;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+button:hover {
+    background-color: green;
+    font-size: 18px;
+    color: white;
+
+}
+* {
+    box-sizing: :border-box;
+}
+h2 {
+    color: red;
+    text-align: center;
+
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    color: black;
+    line-height: 1.5;
+}
+h2, p {
+    border: 3px solid red;
+}
+body {
+    background-color: lightgreen;
+}
+h1, p {
+    border: 3px solid red;
+
+}
+button {
+    background: linear-gradient(to bottom, lightpink, purple);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+button:hover {
+    opacity: 0.9;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-weight: bold;
+}
+p {
+    font-style: italic;
+
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+
+
